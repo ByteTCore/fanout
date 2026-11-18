@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "notes": "ci: take update mandatory flag from the tag name\nTag x.y.z(mandatory) writes mandatory: true to latest.json, plain x.y.z writes\nfalse. The version and the release tag on RELEASE_REPO stay plain x.y.z.",
+  "pub_date": "2026-11-18T15:25:31.777Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNU5SNHRtMERySHpBQjFxTHRnWVIvaysxQ2FBOWxsRnQ3dzFzbE1WV1lEUi9VT25kZFpnTnBKbjM1SXI0Q2F1ZkkyaVFEYitRYVVlUExmUElYOVRDY0V4ZlZZSHB6NHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDE1NTI5CWZpbGU6RmFub3V0XzEuMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMApmTzlwWHYyZ1ZPdCs0R3VhTmtrNURPNlA2T2IwQnQ2TCtKUmZ5dzNOM01OSHlkaSsrRktKSURqNXFqUUJIRGRXVUovWXp4MFpaR3hsVzBLYlZxUnFCdz09Cg==",
+      "url": "https://github.com/ByteTCore/fanout/releases/download/1.0.0/Fanout_1.0.0_x64-setup.exe"
+    }
+  },
+  "mandatory": true,
+  "notesI18n": {
+    "vi": "ci: take update mandatory flag from the tag name\nTag x.y.z(mandatory) writes mandatory: true to latest.json, plain x.y.z writes\nfalse. The version and the release tag on RELEASE_REPO stay plain x.y.z.",
+    "en": "ci: take update mandatory flag from the tag name\nTag x.y.z(mandatory) writes mandatory: true to latest.json, plain x.y.z writes\nfalse. The version and the release tag on RELEASE_REPO stay plain x.y.z."
+  }
+}
